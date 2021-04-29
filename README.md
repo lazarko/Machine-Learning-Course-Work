@@ -1,0 +1,2 @@
+# Machine-Learning-Course-Work
+This repository contains laboratory assignments done in the machine learning course (DD2421) at KTH. The course work consisted of three labs (Decision trees, Support Vector Machines and Bayes Classifiers) and one programming challenge. For the programming challenge we were given two datasets, one for training and the other one for evaluating. Programming challenge was done with the materials from the third laboration.   
